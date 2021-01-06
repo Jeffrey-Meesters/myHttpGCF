@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npx functions-framework --target=helloHttp [--signature-type=http]",
+    "dev": "npx functions-framework --target=helloHttp [--signature-type=http]",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
